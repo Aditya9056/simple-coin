@@ -8,7 +8,7 @@ Requires `Node.js` and `npm`.
 
 * Clone the repo
 * Run `npm install`
-* run `node blockChain.js`
+* run `node block_chain.js`
 
 ## How it Works
 
