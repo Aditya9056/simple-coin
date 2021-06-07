@@ -1,6 +1,6 @@
 # This is a BlockChain Demo
 
-## This is a Minimum BlockChain 👉 'Portala Coin'
+## This is a Minimum BlockChain 👉 'Simple Coin'
 
 ## Usage
 
